@@ -8,7 +8,7 @@ local urlSatuan = "https://raw.githubusercontent.com/MuhammadAlfiFauzul/verif/re
 
 local successUrls = {
     "https://raw.githubusercontent.com/WataXScript/WataXMountAtin/main/Loader/WataX.lua",
-    "https://raw.githubusercontent.com/WataXScript/WataXMountArunika/main/Loader/mainmap991.lua"
+     "https://raw.githubusercontent.com/WataXScript/WataXMount977Sakahayang/refs/heads/main/Loader/mainmap925.lua"
 }
 
 
